@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">craft-beer-test</string>
+    <string name="beer_image">Beer image</string>
+    <string name="favorite_image_button">Favorite image button</string>
+    <string name="no_connection_message">No internet connection</string>
+    <string name="service_is_unavailable">Service is unavailable</string>
+    <string name="hops">Hops</string>
+    <string name="malt">Malt</string>
+    <string name="food_pairing">Food pairing</string>
+</resources>
